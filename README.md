@@ -1,4 +1,4 @@
-##Install Dependencies
+# Install Dependencies
 1. Install Dependencies around Tensorflow
    !pip install tensorflow==(tensorflow version)
 3. Importing Tensorflow Functional API
