@@ -1,7 +1,9 @@
 # Install Dependencies
+
 !pip install tensorflow==2.20.0 opencv-python matplotlib
 
-#Import Standard Dependencies
+# Import Standard Dependencies
+
 import cv2
 import os
 import random
