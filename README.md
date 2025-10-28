@@ -1,4 +1,5 @@
 # Facial Recognition App 
+The core of the application involves training a Siamese neural network
 
 ## Install Dependencies
 1. Install Dependencies around Tensorflow
