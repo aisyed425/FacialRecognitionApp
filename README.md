@@ -16,3 +16,6 @@ If using a GPU, set memory growth to True using tf.config.experimental.set_memor
 
 ## Create Folder Structure
 Set up a main folder with three subfolders: anchor, positive, and negative, to organize images for the facial verification mode
+
+
+## Jupyter Notebook Screenshots
