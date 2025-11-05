@@ -1,5 +1,5 @@
-# I will add stage one of my code here.
-# Screenshots 
+# I will add my code here. With updates.
+
 import cv2
 
 # Load the built-in face detector (Haar Cascade)
