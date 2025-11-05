@@ -1,0 +1,2 @@
+# I will add stage one of my code here. Using Jupyter Notebook
+# Screenshots 
