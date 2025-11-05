@@ -1,5 +1,5 @@
 # I will add my code here. With updates.
-
+#Updated Nov 5
 import cv2
 
 # Load the built-in face detector (Haar Cascade)
