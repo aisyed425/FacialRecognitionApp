@@ -1,4 +1,4 @@
-#Steps to follow
+# Steps to follow
 
 Install the opencv-python package with:
 pip install opencv-python
