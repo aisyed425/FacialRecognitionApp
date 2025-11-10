@@ -4,7 +4,7 @@ import cv2
 alg = "haarcascade_frontalface_default.xml" #Replace with the appropriate path
 haar_cascade = cv2.CascadeClassifier(alg)
 # read the image as grayscale
-file_name = '<INSERT YOUR IMAGE NAME HERE>'
+file_name = '<INSERT YOUR IMAGE NAME HERE>' #copy path and place here
 img = cv2.imread(file_name, cv2.IMREAD_GRAYSCALE)
 # find the faces in that image
 # this gives back an array of face locations and sizes
