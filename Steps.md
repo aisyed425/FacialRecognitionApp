@@ -7,3 +7,5 @@ Download the haarcascade_frontalface_default.xml pre-trained Haar Cascade model 
 Copy the path and replace alg = "haarcascade_frontalface_default.xml" with the appropriate path
 
 Make sure to create a separate folder to have your images placed into.
+
+I used Google Colab to create this project
