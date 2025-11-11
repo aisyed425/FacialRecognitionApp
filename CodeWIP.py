@@ -1,4 +1,3 @@
-# import the OpenCV library - it's called cv2
 import cv2
 
 # load the Haar Cascade algorithm from the XML file into OpenCV
