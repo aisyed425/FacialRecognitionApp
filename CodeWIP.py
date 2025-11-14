@@ -17,7 +17,6 @@ faces = haar_cascade.detectMultiScale(
     minNeighbors=2,
     minSize=(100, 100)
 )
-
 i = 0
 # for each face detected
 for x, y, w, h in faces:
