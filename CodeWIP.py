@@ -29,5 +29,4 @@ for x, y, w, h in faces:
         target_file_name,
         cropped_image,
     )
-
     i += 1
