@@ -33,3 +33,5 @@ for x, y, w, h in faces:
 
 
 #Minor Brainstorm:
+# How do I make this work for a door lock?
+#How do I make the door lock?
