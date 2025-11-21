@@ -30,3 +30,6 @@ for x, y, w, h in faces:
         cropped_image,
     )
     i += 1
+
+
+#Minor Brainstorm:
