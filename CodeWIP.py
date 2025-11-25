@@ -18,7 +18,7 @@ faces = haar_cascade.detectMultiScale(
     minSize=(100, 100)
 )
 i = 0
-# for each face detecte
+# for each face detected
 for x, y, w, h in faces:
     # crop the image to select only the face
     cropped_image = img[y : y + h, x : x + w]
