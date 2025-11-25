@@ -14,10 +14,11 @@ gray_img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
 faces = haar_cascade.detectMultiScale(
     gray_img,
     scaleFactor=1.05,
-    minNeighbors=2,    minSize=(100, 100)
+    minNeighbors=2,
+    minSize=(100, 100)
 )
 i = 0
-# for each face detected
+# for each face detecte
 for x, y, w, h in faces:
     # crop the image to select only the face
     cropped_image = img[y : y + h, x : x + w]
