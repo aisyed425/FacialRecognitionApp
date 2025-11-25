@@ -13,8 +13,7 @@ gray_img = cv2.cvtColor(img, cv2.COLOR_RGB2BGR)
 # this gives back an array of face locations and sizes
 faces = haar_cascade.detectMultiScale(
     gray_img,
-    scaleFactor=1.05,
-    minNeighbors=2,
+    scaleFactor=1.05,    minNeighbors=2,
     minSize=(100, 100)
 )
 i = 0
