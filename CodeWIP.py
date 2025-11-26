@@ -1,7 +1,7 @@
 import cv2
 
 # load the Haar Cascade algorithm from the XML file into OpenCV
-alg = "haarcascade_frontalface_default.xml"  Replace with the appropriate path
+alg = "haarcascade_frontalface_default.xml"  # Replace with the appropriate path
 haar_cascade = cv2.CascadeClassifier(alg)
 
 # read the image as grayscale
