@@ -9,3 +9,5 @@ Copy the path and replace alg = "haarcascade_frontalface_default.xml" with the a
 Make sure to create a separate folder to have your images placed into.
 
 I used Google Colab to create this project
+
+Still working
