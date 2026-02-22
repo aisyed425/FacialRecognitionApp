@@ -11,3 +11,14 @@ Planning: I want to use this to make a facial recognition lock for my cat. I pro
 ### Day 4 
 Issues: Managed to fix the issue where it interprets incorrect information. Now a second issue arises where many cats look very similar how will I get it to read my cats face only?
 Planning: Need to connect an arduino and a webcam as well for testing. Also need to find cascade file for cats. This might not work out but I hope it does 😰
+
+# Separate Development Journal
+
+## 2026-02-22
+- Started facial recognition app structure
+- Researched libraries (face_recognition, dlib, OpenCV)
+- Planned architecture
+
+## Next Steps
+- Set up src/ modules
+- Create initial training script
